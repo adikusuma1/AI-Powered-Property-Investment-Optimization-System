@@ -2,8 +2,6 @@
 
 # 🏠✨ AI Property Investment Advisor
 
-![Project Banner](https://via.placeholder.com/1200x400/4F46E5/FFFFFF?text=AI+Property+Investment+Advisor) 
-
 ## 📌 Overview
 Hybrid AI system combining **A* search** and **Prolog reasoning** to optimize property investments in East Java.
 
