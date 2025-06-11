@@ -1,0 +1,4 @@
+Target Market	: [pariwisata]
+Wilayah		: suburban
+Strategi	: flipping
+Risiko		: rendah
